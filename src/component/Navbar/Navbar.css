@@ -13,38 +13,39 @@
     display: flex;
     align-items: center;
     margin-top: 10px;
-  }
+  }*/
   
   .link {
+    transition: color ease-in-out 300ms;
     text-decoration: none;
     margin-left: 15px;
     font-size: 20px;
-    color: #1e90c2;
-    transition: color ease-in-out 300ms;
-  }
+}
   
-  .link:hover {
-    color: #1b4388;
-  }
+  
   
   .active-link {
     text-decoration: none;
     margin-left: 15px;
     font-size: 20px;
     transition: color ease-in-out 300ms;
-    color: #1b4388;
-  } */
+    color:green;
+    text-decoration: underline;
+  } 
 .link-container{
     background-color: aliceblue;
 }
 .link{
     text-decoration: none;
-    font-size: 25px;
+    
     font-weight: bolder;
     margin-left: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .link:hover{
     background-color: cadetblue;
-    color: bisque;
+    border-radius: 10px;
+    padding: 10px;
+    color: aquamarine;
+    
 }
