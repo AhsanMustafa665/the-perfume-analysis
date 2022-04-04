@@ -5,7 +5,7 @@
 ## Description :
 
 <ul>
-<h4>Description: 
+
 <li>1. This project is based on a review of how much the client is satisfied with a perfume product.</li>
 <li>2. The names, pictures, comments, etc. of the reviewed client are displayed on the card.</li>
 <li>3.
