@@ -1,0 +1,12 @@
+.ratings-detail img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.ratings-detail{
+border: 2px solid gray;
+border-radius: 10px;
+margin-top: 20px;
+width: 60%;
+background-color: cornsilk;
+}

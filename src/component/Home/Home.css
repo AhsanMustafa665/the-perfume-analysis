@@ -1,0 +1,49 @@
+.full-details{
+    margin-top: 8%;
+    display: flex;
+    justify-content:space-between;
+   
+   
+}
+.bio-details{
+    width: 50%;
+    text-align: left;
+    margin-left: 20px;
+}
+.bio-details h1{
+    font-family:cursive;
+    font-weight:bolder;
+    font-size: 50px;
+    color:rgb(90, 90, 150);
+}
+.bio-details h3{
+   font-style: oblique;
+}
+.picture-details img{
+    width: 70%;
+    height: 100%;
+    border-radius: 40px;
+}
+.live-btn{
+    background-color:rgb(198, 198, 235);
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+    color: blue;
+    font-size: large;
+    cursor: pointer;
+}
+.perfume-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
+.btn-style{
+    background-color:rgb(198, 198, 235);
+    color: blue;
+    padding:2px 50px ;
+    border: none;
+    border-radius: 10px;
+    font-size: larger;
+    cursor: pointer;
+}
