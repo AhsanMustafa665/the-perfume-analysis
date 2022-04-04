@@ -1,7 +1,6 @@
 # The Perfume review's site.
 
-/.\*
-<a href="the-perfume-reviews-site.netlify.app">Live site hosted : the-perfume-reviews-site.netlify.app</a>
+<a href="the-perfume-reviews-site.netlify.app">Live site hosted : https://app.netlify.com/sites/the-perfume-reviews-site/settings/general</a>
 
 ## Description :
 
