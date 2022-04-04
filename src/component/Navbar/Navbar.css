@@ -1,19 +1,4 @@
-/* nav {
-    height: 80px;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.1);
-    padding: 0 10%;
-    font-family: "Teko", sans-serif;
-  }
-  
-  .logo-container {
-    display: flex;
-    align-items: center;
-    margin-top: 10px;
-  }*/
+
   nav{
     top: 0;
     position: sticky;
@@ -24,9 +9,6 @@
     margin-left: 15px;
     font-size: 20px;
 }
-  
-  
-  
   .active-link {
     text-decoration: none;
     margin-left: 15px;
@@ -35,16 +17,22 @@
     color:green;
     text-decoration: underline;
   } 
+
+
 .link-container{
-    background-color: aliceblue;
+    padding-top: 10px;
+    background-color:lightgray;
+    height: 50px;
 }
+
 .link{
+  
     text-decoration: none;
-    
     font-weight: bolder;
     margin-left: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 .link:hover{
     background-color: cadetblue;
     border-radius: 10px;

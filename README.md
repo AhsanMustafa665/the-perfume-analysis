@@ -1,7 +1,7 @@
 # The Perfume review's site.
 
 /.\*
-<a href="https://app.netlify.com/sites/covid-19-special-musk-project/settings/general">Live site hosted : https://app.netlify.com/sites/covid-19-special-musk-project/settings/general</a>
+<a href="the-perfume-reviews-site.netlify.app">Live site hosted : the-perfume-reviews-site.netlify.app</a>
 
 ## Description :
 

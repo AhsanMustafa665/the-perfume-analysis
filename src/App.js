@@ -1,3 +1,4 @@
+
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import Home from './component/Home/Home';
@@ -11,7 +12,8 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Routes>
+      <Routes className='header-style'>
+        <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/reviews' element={<Reviews></Reviews>}></Route>
         <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
