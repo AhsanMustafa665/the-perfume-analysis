@@ -7,9 +7,12 @@ const Perfume = (props) => {
 
         <div className='ratings-detail'>
             <img src={img} alt="" />
-            <h4>Name: {name}</h4>
-            <p>Comments: {ratingDetails}</p>
-            <p>Ratings: {rating}</p>
+            <div style={{textAlign:'left',paddingLeft:'4px' ,paddingTop:'20px'}}>
+            <h6>Name: {name}</h6>
+            <p><small> Comments: {ratingDetails}</small></p>
+            <p><small> Ratings: {rating}</small></p>
+            </div>
+          
             
         </div>
     );

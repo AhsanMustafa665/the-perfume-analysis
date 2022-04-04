@@ -10,7 +10,7 @@
       "id": "6249f80fb500ccc44f52bf5c",
       "rating":"⭐⭐⭐",
       "ratingDetails":"love for this product",
-      "name": "Webb Randolph",
+      "name": "Web Randolph",
       "img": "https://img.freepik.com/free-photo/emotional-bearded-male-has-surprised-facial-expression-astonished-look-dressed-white-shirt-with-red-braces-points-with-index-finger-upper-right-corner_273609-16001.jpg"
     },
     {
@@ -40,5 +40,26 @@
       "ratingDetails":"bootle looking outstanding",
       "name": "Harding Ryan",
       "img": "https://img.freepik.com/free-photo/studio-shot-handsome-cheerful-dark-skinned-man-with-toothy-smile-indicates-with-thumb-aside_273609-18908.jpg"
+    },
+    {
+      "id": "6249f80fc8ad7b05be23ddd69",
+      "rating":"⭐⭐⭐⭐⭐",
+      "ratingDetails":"Thats all good ",
+      "name": "Tom",
+      "img": "https://img.freepik.com/free-photo/agitated-young-lovely-dark-haired-bearded-man-raising-surprisedly-eyebrows_295783-12768.jpg"
+    },
+    {
+      "id": "6249f80fc8ad7b05be23ddd19",
+      "rating":"⭐⭐⭐⭐⭐⭐",
+      "ratingDetails":"Amazing product.",
+      "name": "Leone",
+      "img": "https://img.freepik.com/free-photo/young-attractive-handsome-guy-feels-delighted-gladden-amazed_295783-535.jpg"
+    },
+    {
+      "id": "6249f80fc8ad7b05be23ddd18",
+      "rating":"⭐⭐⭐",
+      "ratingDetails":"bootle looking outstanding",
+      "name": "Kabir",
+      "img": "https://img.freepik.com/free-photo/stupefied-bearded-adult-european-man-keeps-mouth-opened-stares-terrified-holds-mobile-phone-finds-out-shocking-news-dressed-casual-jumper_273609-51310.jpg"
     }
   ]
