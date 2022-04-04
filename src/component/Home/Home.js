@@ -20,11 +20,13 @@ const Home = () => {
                <img src={perfume} alt='/' />
             </div>
             </div>
+            <h1>Customer's Reviews (3)</h1>
             <div className='perfume-container'>
                 {
                     perfumes.slice(0,3).map(perfume=><Perfume key={perfume.id} perfume={perfume}></Perfume>)
                }
             </div>
+           
             <br />
             <br />
             <br />
